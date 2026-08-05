@@ -1,0 +1,203 @@
+[
+    {
+        "pregunta": "¿Cuál es el río más largo del mundo?",
+        "opciones": [
+            "A. Río Nilo",
+            "B. Río Amazonas",
+            "C. Río Misisipi",
+            "D. Río Yangtsé"
+        ],
+        "respuesta_correcta": "B"
+    },
+    {
+        "pregunta": "¿En qué año cayó el muro de Berlín?",
+        "opciones": [
+            "A. 1985",
+            "B. 1989",
+            "C. 1991",
+            "D. 1993"
+        ],
+        "respuesta_correcta": "B"
+    },
+    {
+        "pregunta": "¿Quién pintó la famosa obra 'La joven de la perla'?",
+        "opciones": [
+            "A. Leonardo da Vinci",
+            "B. Rembrandt",
+            "C. Johannes Vermeer",
+            "D. Vincent van Gogh"
+        ],
+        "respuesta_correcta": "C"
+    },
+    {
+        "pregunta": "¿Cuál es el elemento químico más abundante en la corteza terrestre?",
+        "opciones": [
+            "A. Silicio",
+            "B. Hierro",
+            "C. Oxígeno",
+            "D. Aluminio"
+        ],
+        "respuesta_correcta": "C"
+    },
+    {
+        "pregunta": "¿Qué país europeo tiene una silueta geográfica con forma de bota?",
+        "opciones": [
+            "A. Grecia",
+            "B. Italia",
+            "C. España",
+            "D. Portugal"
+        ],
+        "respuesta_correcta": "B"
+    },
+    {
+        "pregunta": "¿Cuál es el océano más grande del mundo?",
+        "opciones": [
+            "A. Océano Atlántico",
+            "B. Océano Índico",
+            "C. Océano Pacífico",
+            "D. Océano Ártico"
+        ],
+        "respuesta_correcta": "C"
+    },
+    {
+        "pregunta": "¿Quién escribió la novela 'Cien años de soledad'?",
+        "opciones": [
+            "A. Mario Vargas Llosa",
+            "B. Gabriel García Márquez",
+            "C. Julio Cortázar",
+            "D. Jorge Luis Borges"
+        ],
+        "respuesta_correcta": "B"
+    },
+    {
+        "pregunta": "¿Qué gas absorben principalmente las plantas durante el proceso de la fotosíntesis?",
+        "opciones": [
+            "A. Oxígeno",
+            "B. Nitrógeno",
+            "C. Dióxido de carbono",
+            "D. Hidrógeno"
+        ],
+        "respuesta_correcta": "C"
+    },
+    {
+        "pregunta": "¿En qué país de la antigüedad se originaron los Juegos Olímpicos?",
+        "opciones": [
+            "A. Roma",
+            "B. Grecia",
+            "C. Egipto",
+            "D. China"
+        ],
+        "respuesta_correcta": "B"
+    },
+    {
+        "pregunta": "¿Cuál es el planeta más cercano al Sol en nuestro sistema solar?",
+        "opciones": [
+            "A. Venus",
+            "B. Mercurio",
+            "C. Marte",
+            "D. Júpiter"
+        ],
+        "respuesta_correcta": "B"
+    },
+    {
+        "pregunta": "¿Qué instrumento musical de cuerda percutida tiene exactamente 88 teclas?",
+        "opciones": [
+            "A. Arpa",
+            "B. Órgano",
+            "C. Piano",
+            "D. Acordeón"
+        ],
+        "respuesta_correcta": "C"
+    },
+    {
+        "pregunta": "¿Cuál es la capital de Australia?",
+        "opciones": [
+            "A. Sídney",
+            "B. Melbourne",
+            "C. Canberra",
+            "D. Brisbane"
+        ],
+        "respuesta_correcta": "C"
+    },
+    {
+        "pregunta": "¿Quién es considerado el padre del psicoanálisis?",
+        "opciones": [
+            "A. Carl Jung",
+            "B. Sigmund Freud",
+            "C. Jean Piaget",
+            "D. B.F. Skinner"
+        ],
+        "respuesta_correcta": "B"
+    },
+    {
+        "pregunta": "¿Cuál es el hueso más largo del cuerpo humano?",
+        "opciones": [
+            "A. Húmero",
+            "B. Fémur",
+            "C. Radio",
+            "D. Tibia"
+        ],
+        "respuesta_correcta": "B"
+    },
+    {
+        "pregunta": "¿En qué continente se encuentra el desierto del Sahara?",
+        "opciones": [
+            "A. Asia",
+            "B. África",
+            "C. Oceanía",
+            "D. América"
+        ],
+        "respuesta_correcta": "B"
+    },
+    {
+        "pregunta": "¿Qué país regaló la Estatua de la Libertad a los Estados Unidos?",
+        "opciones": [
+            "A. Reino Unido",
+            "B. Francia",
+            "C. España",
+            "D. Alemania"
+        ],
+        "respuesta_correcta": "B"
+    },
+    {
+        "pregunta": "¿Cuál es el animal terrestre más rápido del mundo?",
+        "opciones": [
+            "A. Leopardo",
+            "B. Guepardo",
+            "C. León",
+            "D. Antílope"
+        ],
+        "respuesta_correcta": "B"
+    },
+    {
+        "pregunta": "¿Qué filósofo griego de la antigüedad fue el maestro directo de Alejandro Magno?",
+        "opciones": [
+            "A. Sócrates",
+            "B. Platón",
+            "C. Aristóteles",
+            "D. Epicuro"
+        ],
+        "respuesta_correcta": "C"
+    },
+    {
+        "pregunta": "¿Cuál es la capital de Canadá?",
+        "opciones": [
+            "A. Toronto",
+            "B. Vancouver",
+            "C. Montreal",
+            "D. Ottawa"
+        ],
+        "respuesta_correcta": "D"
+    },
+    {
+        "pregunta": "¿En qué año dio inicio la Primera Guerra Mundial?",
+        "opciones": [
+            "A. 1912",
+            "B. 1914",
+            "C. 1918",
+            "D. 1939"
+        ],
+        "respuesta_correcta": "B"
+    }
+
+]
