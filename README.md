@@ -17,7 +17,7 @@ Aplicación de consola en Python desarrollada como proyecto práctico para el m�
 
 ## 📁 Estructura del proyecto
 
-
+```text
 ├── cuestionario_interactivo.py       # Archivo principal (flujo del programa y menú)
 ├── utils.py                          # Módulo con funciones lógicas, validaciones y ficheros
 ├── preguntas_cultura_general.json    # Banco de preguntas y respuestas en formato JSON
